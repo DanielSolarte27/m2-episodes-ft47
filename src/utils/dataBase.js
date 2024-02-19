@@ -1,4 +1,4 @@
 module.exports = {
-  allUsers: [],
-  allEpisodes: []
-};
+    allUsers: [],
+    allEpisodes: []
+}

@@ -1,4 +1,4 @@
-const { Router } = require("express");
+const {Router} = require("express");
 const { getHome } = require("../controllers/homeController.js");
 const homeRouter = Router();
 
